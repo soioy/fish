@@ -1,0 +1,21 @@
+[
+  {
+    "type": "java",
+    "name": "jar (in project fist)",
+    "extensions": [
+      {
+        "name": "Sim GUI",
+        "libName": "C:\\frc_bot\\res\\fist\\build\\jni\\release\\halsim_gui.dll",
+        "defaultEnabled": true
+      },
+      {
+        "name": "Use Real DriverStation",
+        "libName": "C:\\frc_bot\\res\\fist\\build\\jni\\release\\halsim_ds_socket.dll",
+        "defaultEnabled": false
+      }
+    ],
+    "environment": {},
+    "libraryDir": "C:\\frc_bot\\res\\fist\\build\\jni\\release",
+    "mainClassName": "frc.robot.Main"
+  }
+]
